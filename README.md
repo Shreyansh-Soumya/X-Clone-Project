@@ -2,13 +2,6 @@
 
 A responsive front-end clone of the **X (formerly Twitter)** homepage built using **HTML**, **Tailwind CSS**, and **Vite**. This project recreates the modern X interface with a clean, responsive layout and interactive UI components.
 
----
-
-## 📸 Preview
-
-> Add a screenshot or GIF of your project here.
-
-![Project Screenshot](./screenshot.png)
 
 ---
 
